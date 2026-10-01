@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="demo" name="demo" framework="JPA" ormUnit="demo:demo" defaultDataSourceId="eab69c2e-876b-4e38-83f1-45db24cddd61" />
+    </persistence-units>
+  </component>
+</project>
